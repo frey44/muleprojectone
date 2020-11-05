@@ -1,10 +1,11 @@
 package projectonesample;
 
 public class sampleone {
-    private static  System;
 
-    public static <String> void main(String[] args) {
-        System.out.println();
-        
+
+    public static void main(String[] args) {
+        System.out.println("please enter this number");
+        System.out.println("this number is one");
+        System.out.println("final number is 19");
     }
 }
